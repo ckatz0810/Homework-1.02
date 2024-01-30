@@ -1,0 +1,198 @@
+@font-face {
+    font-family: adventure;
+    src: url(../media/fonts/Adventure\ Time\ Logo.ttf);
+}
+
+@font-face {
+    font-family: eightbit;
+    src: url(../media/fonts/PressStart2P-Regular.ttf);
+}
+
+@font-face {
+    font-family: funface;
+    src: url(../media/fonts/DeliusUnicase-Regular.ttf);
+}
+
+@font-face {
+    font-family: dance;
+    src: url(../media/fonts/DancingScript-VariableFont_wght.ttf);
+    }
+
+@font-face {
+    font-family: basic;
+    src: url(../media/fonts/Comfortaa-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: handwrite;
+    src: url(../media/fonts/Thunderman.ttf);
+}
+
+.pagetitle{
+    font-family: adventure;
+    color: #cc0000;
+    font-size: 65px;
+    text-shadow: 2px 2px white;
+    
+
+    
+}
+
+table, td, th{
+    border: 3px;
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: #000000;
+    padding: 10px;
+}
+
+th{
+    background-color:#d5aff1;
+    font-size: large;
+    font-weight: bolder;
+    font-family: basic;
+    
+    
+}
+
+td{
+    background-color: #cd93f9;
+    text-align: center;
+    font-family: basic;
+    font-weight: 300;
+}
+
+p1{
+    color: blue;
+}
+
+p2{
+    color: green;
+}
+
+body{
+    
+    background-image: 
+    linear-gradient(rgba(0,0,0,.2), rgba(0,0,0,.8)),
+    url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8f730b7a-3cfe-45f3-bd4f-a3553538a548/d4a6hvp-867c00e0-9d76-4ef7-bd5d-2727a5d2559f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhmNzMwYjdhLTNjZmUtNDVmMy1iZDRmLWEzNTUzNTM4YTU0OFwvZDRhNmh2cC04NjdjMDBlMC05ZDc2LTRlZjctYmQ1ZC0yNzI3YTVkMjU1OWYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9hg1H-bqXYn1CKCvJJAEiK4ME5ROrwxIr1b2wJGa83Q");
+    background-size: auto;
+    
+}
+
+.listonetitle{
+    font-family: eightbit;
+    color: #ffba1e;
+    margin-left: 20px;
+}
+
+.relations{
+    color: #029ac3;
+    font-family: funface;
+    
+}
+.listtwotitle{
+    font-family: eightbit;
+    color: #ffba1e;
+    margin-left: 20px;
+}
+
+.items{
+    font-family: funface;
+    color: #029ac3;
+
+}
+
+li{
+    padding-top: 7px;
+}
+
+.quote1{
+    color: #0A2472;
+    font-size: 35px;
+    font-family: dance;
+}
+
+.quotehead{
+    font-family: eightbit;
+    color: black;
+    text-decoration: underline;
+}
+
+.quote{
+    background-color: #fe66ca;
+    width: 1000px;
+    text-align: center;
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(237, 32, 97);
+    border-radius: 50px;
+    
+}
+
+.jakestheme{
+font-size: 35px;
+font-family: handwrite;
+color: darkgrey;
+margin-left: 100px;
+margin-bottom: 10px;
+display: inline;
+}
+
+.ooo{
+font-size: 35px;
+font-family: handwrite;
+color: darkgray;
+}
+
+audio{
+    border: 3px;
+    border-style: dashed;
+    border-color: #cc0000;
+    background-color: white;
+    border-radius: 30px;
+}
+
+.themesong{
+   width: fit-content;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pagetitle{
+    text-align: center;
+}
+
+
+table{
+    margin: auto ;
+}
+
+.quote{
+    margin: auto;
+}
+
+.ooo{
+display: inline;
+    margin-left: 280px;
+}
+
+.themesong{
+ display: inline;
+ margin-left: 150px;
+}
+
+audio{
+    display: inline;
+    margin-bottom: 170px;
+    margin-top: 0px;
+    margin-left: 65px;
+}
+
+ul{
+    margin-left: 20px;
+}
